@@ -1,14 +1,13 @@
+
+
 # RE & Infrastructure Playbook
 
-This repository documents setup processes, troubleshooting steps, and infrastructure configurations used in our development and reverse engineering workflows.
+This repository documents setup processes, troubleshooting steps, and infrastructure configurations used in development and reverse engineering workflows.
 
 ---
 
-## 📌 Topics Covered
+# 📚 Table of Contents
 
-1. Jadx Setup (Android Decompilation)
-2. Samba Setup (Office Shared Network Folder)
+- [Jadx Setup (Android Decompilation - Ubuntu)](https://github.com/FahimMuntashir/re-and-infra-playbook/blob/main/01-jadx/setup.md)
 
-More topics will be added over time.
-
----
+- [Samba Setup (Ubuntu File Sharing)](https://github.com/FahimMuntashir/re-and-infra-playbook/blob/main/02-samba/setup.md)
