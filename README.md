@@ -77,7 +77,7 @@ Each topic should be placed in its own numbered folder for scalability.
 ---
 
 ##  Contributing
-[Contributing Guidelines](CONTRIBUTING.MD)
+[Contributing Guidelines](/CONTRIBUTING.md)
 ## Support
 
 If you find this repository helpful:
