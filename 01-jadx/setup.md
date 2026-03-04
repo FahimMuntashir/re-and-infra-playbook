@@ -1,5 +1,5 @@
 
-# 1️⃣ Jadx Setup (Ubuntu)
+# Jadx Setup (Ubuntu)
 
 ## Install Java
 
